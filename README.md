@@ -14,7 +14,6 @@
 <img src="https://img.shields.io/badge/ALWAYS_LEARNING-FF00CC?style=for-the-badge&labelColor=080014"/>
 
 <br/><br/>
-
 <img src="https://komarev.com/ghpvc/?username=srigokul001&style=for-the-badge&color=7B2FFF&label=PROFILE+VIEWS"/>
 <img src="https://img.shields.io/github/followers/srigokul001?style=for-the-badge&color=00D9FF&label=FOLLOWERS"/>
 
@@ -22,36 +21,35 @@
 
 ---
 
-<div align="center">
+## 😎 ABOUT ME
 
-## 👨‍💻 ABOUT ME
+
+<img src="https://img.shields.io/badge/----STUDENT_AT_NANDHA_ENGINEERING_COLLEGE-----151515?style=flat-square&logo=academia&logoColor=00F5FF"/>
+<img src="https://img.shields.io/badge/STATUS-------LEARNING_AND_BUILDING---------151515?style=flat-square&logo=github&logoColor=7B61FF"/>
 
 </div>
 
-```text
-╔════════════════════════════════════════════╗
-║             DEVELOPER PROFILE              ║
-╠════════════════════════════════════════════╣
-║  NAME       : SRIGOKUL.V                   ║
-║  EDUCATION  : B.Tech Information Technology║
-║  COLLEGE    : Nandha Engineering College   ║
-║  ROLE       : Aspiring Software Developer  ║
-║  INTERESTS  : Full Stack | AI | IoT        ║
-║  MISSION    : Build. Learn. Innovate.      ║
-╚════════════════════════════════════════════╝
-```
-
-> 💻 Welcome to my digital space — where ideas become code, creativity meets technology, and every project is a new opportunity to innovate.
-
-- 🎓 Pursuing B.Tech in Information Technology.
-- 💻 Building practical web applications.
-- 🐍 Improving my Python, C and JavaScript skills.
-- 🌐 Exploring full-stack development and API integration.
-- 🤖 Interested in Artificial Intelligence and Internet of Things.
-- 🎯 Goal: Become a skilled software developer.
-- ⚡ Motto: Learn. Build. Improve. Repeat.
-
 ---
+
+I'm an Information Technology student passionate about software development, modern web technologies, and building practical applications.
+
+- 💻 **Development:** React, Node.js and full-stack applications
+- 🐍 **Programming:** Python, C and JavaScript
+- 🤖 **Exploring:** Artificial Intelligence and IoT
+- 🚀 **Building:** Projects that solve real-world problems
+- 🎯 **Goal:** Grow into a skilled software developer
+
+
+
+<img src="https://img.shields.io/badge/WEB_DEVELOPMENT-00F5FF?style=for-the-badge&labelColor=0B1020"/>
+<img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-8B5CF6?style=for-the-badge&labelColor=0B1020"/>
+<img src="https://img.shields.io/badge/IOT-FF4ECD?style=for-the-badge&labelColor=0B1020"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F5FF,50:7B61FF,100:FF4ECD&section=header" width="80%"/>
+
+</div>
 
 <div align="center">
 
@@ -156,7 +154,7 @@ An ESP32-based project exploring voice input, language translation and spoken au
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=srigokul001&show_icons=true&hide_border=true&bg_color=05000F&title_color=00F5FF&icon_color=FF00CC&text_color=FFFFFF&rank_icon=github" alt="GitHub Statistics"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srigokul001&layout=compact&hide_border=true&bg_color=05000F&title_color=00F5FF&text_color=FFFFFF" alt="Top Languages"/>
+<img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srigokul001&layout=compact&hide_border=true&bg_color=05000F&title_color=00F5FF&text_color=FFFFFF" alt="Top Languages"/>
 
 <br/><br/>
 
