@@ -1,161 +1,222 @@
 
-<!-- ===================== ANIMATED INTRO ===================== -->
+<!-- =============== SRIGOKUL | NEON GITHUB PROFILE =============== -->
 
 <div align="center">
 
-# Hey there, I'm SRIGokul! 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:05000F,20:26004D,45:7200FF,70:007CF0,100:00F5FF&text=WELCOME%20TO%20MY%20SPACE&fontSize=36&fontColor=FFFFFF&fontAlignY=36&desc=SRIGOKUL%20%7C%20ASPIRING%20SOFTWARE%20DEVELOPER&descSize=15&descAlignY=57&animation=twinkling"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=B.Tech+IT+Student;Aspiring+Software+Developer;Python+%7C+React+%7C+Node.js;Building+Projects+That+Solve+Problems!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2200&pause=700&color=00F5FF&center=true&vCenter=true&width=750&lines=HEY%2C+I%27M+SRIGOKUL+%F0%9F%91%8B;WELCOME+TO+MY+DIGITAL+UNIVERSE;CODE+%E2%80%A2+CREATE+%E2%80%A2+INNOVATE;FULL+STACK+%7C+AI+%7C+IoT;BUILDING+THE+FUTURE+ONE+COMMIT+AT+A+TIME" alt="Animated Introduction"/>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=srigokul001&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/srigokul001?style=for-the-badge&color=blue&label=Followers" alt="Followers" />
-</p>
+<br/>
 
-<a href="https://github.com/srigokul001">
-  <img src="https://img.shields.io/badge/GitHub-srigokul001-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+<img src="https://img.shields.io/badge/CREATIVE-7B2FFF?style=for-the-badge&labelColor=080014"/>
+<img src="https://img.shields.io/badge/INNOVATIVE-00D9FF?style=for-the-badge&labelColor=080014"/>
+<img src="https://img.shields.io/badge/ALWAYS_LEARNING-FF00CC?style=for-the-badge&labelColor=080014"/>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=srigokul001&style=for-the-badge&color=7B2FFF&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/srigokul001?style=for-the-badge&color=00D9FF&label=FOLLOWERS"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 👨‍💻 ABOUT ME
+
+</div>
+
+```text
+╔════════════════════════════════════════════╗
+║             DEVELOPER PROFILE              ║
+╠════════════════════════════════════════════╣
+║  NAME       : SRIGOKUL.V                   ║
+║  EDUCATION  : B.Tech Information Technology║
+║  COLLEGE    : Nandha Engineering College   ║
+║  ROLE       : Aspiring Software Developer  ║
+║  INTERESTS  : Full Stack | AI | IoT        ║
+║  MISSION    : Build. Learn. Innovate.      ║
+╚════════════════════════════════════════════╝
+```
+
+> 💻 Welcome to my digital space — where ideas become code, creativity meets technology, and every project is a new opportunity to innovate.
+
+- 🎓 Pursuing B.Tech in Information Technology.
+- 💻 Building practical web applications.
+- 🐍 Improving my Python, C and JavaScript skills.
+- 🌐 Exploring full-stack development and API integration.
+- 🤖 Interested in Artificial Intelligence and Internet of Things.
+- 🎯 Goal: Become a skilled software developer.
+- ⚡ Motto: Learn. Build. Improve. Repeat.
+
+---
+
+<div align="center">
+
+## ⚡ TECH UNIVERSE
+
+### 🔥 PROGRAMMING LANGUAGES
+
+<img src="https://skillicons.dev/icons?i=c,python,javascript&theme=dark" alt="Programming Languages"/>
+
+### 🌐 FRONTEND DEVELOPMENT
+
+<img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind&theme=dark" alt="Frontend Technologies"/>
+
+### ⚙️ BACKEND & DATABASE
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,flask&theme=dark" alt="Backend Technologies"/>
+
+### 🛠️ TOOLS & ENVIRONMENT
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Developer Tools"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🚀 FEATURED PROJECTS
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🏨 TAKKUNU BOOKU</h3>
+
+<div align="center">
+<img src="https://img.shields.io/badge/FULL_STACK-00D9FF?style=for-the-badge"/>
+</div>
+
+A hotel booking platform for discovering hotels and managing room bookings.
+
+**Technologies**
+
+`React` `Vite` `Node.js` `Express` `MongoDB`
+
+<div align="center">
+<a href="https://github.com/srigokul001/takkunu-booku">
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-7B2FFF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 </div>
 
----
+</td>
+<td width="50%" valign="top">
 
-## 👨‍💻 About Me
+<h3 align="center">🛡️ TrustScan AI</h3>
 
-- 🎓 Pursuing **B.Tech in Information Technology** at Nandha Engineering College.
-- 💻 Aspiring Software Developer passionate about building useful applications.
-- 🐍 Learning and developing projects using Python and modern web technologies.
-- 🌐 Interested in Full-Stack Development, AI, and IoT.
-- 🚀 Building practical projects and improving my problem-solving skills.
-- 🎯 Goal: Become a skilled developer and secure a placement in a reputed company.
-- ⚡ Fun fact: I love exploring new technologies and turning ideas into projects!
+<div align="center">
+<img src="https://img.shields.io/badge/PRODUCT_VERIFICATION-FF00CC?style=for-the-badge"/>
+</div>
 
----
+A product verification concept using QR codes, barcodes, serial numbers and verification data to help identify potentially suspicious products.
 
-## 🛠️ Tech Stack
+**Technologies**
 
-### 💻 Programming Languages
+`React` `JavaScript` `APIs` `AI Concepts`
 
-<p>
-  <img src="https://skillicons.dev/icons?i=c,python,javascript" alt="C, Python, JavaScript"/>
-</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 🌐 Frontend Development
+<h3 align="center">🎤 AI Interview Trainer</h3>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind" alt="Frontend Technologies"/>
-</p>
+An AI interview practice concept to help students prepare for interviews and improve their answers.
 
-### ⚙️ Backend & Database
+**Technologies**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,flask" alt="Backend and Database Technologies"/>
-</p>
+`React` `Node.js` `Python` `Flask`
 
-### 🔧 Tools & Platforms
+</td>
+<td width="50%" valign="top">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Development Tools"/>
-</p>
+<h3 align="center">🐼 AI Translation Toy</h3>
 
-### 🤖 Exploring
+An ESP32-based project exploring voice input, language translation and spoken audio output.
 
-`Artificial Intelligence` · `Internet of Things` · `ESP32` · `API Integration`
+**Technologies**
 
----
+`ESP32` `C++` `Python` `Speech Processing`
 
-## 🚀 Featured Projects
-
-### 🏨 TAKKUNU BOOKU — Hotel Booking System
-
-A full-stack hotel booking application designed to make finding and booking rooms easier.
-
-- **Frontend:** React, Vite
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
-- **Deployment:** Render
-
-🔗 [View Project](https://github.com/srigokul001/takkunu-booku)
-
-### 🛡️ TrustScan AI — Product Verification
-
-An AI-powered product verification concept designed to help users identify potentially counterfeit products using QR codes, barcodes, serial numbers, and risk analysis.
-
-- **Focus:** Product authenticity and trust
-- **Technologies:** React, JavaScript, product verification APIs
-
-### 🎤 AI Interview Trainer
-
-An AI-based interview preparation project concept to help students practise interviews and improve their answers.
-
-- **Frontend:** React
-- **Backend:** Node.js
-- **AI Engine:** Python, Flask
-
-### 🌱 Smart IoT Projects
-
-Exploring ESP32-based smart devices, audio input, speech processing, and AI-powered translation.
-
-- **Hardware:** ESP32 and compatible sensors
-- **Focus:** IoT, automation, and AI integration
+</td>
+</tr>
+</table>
 
 ---
-
-## 📊 GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=srigokul001&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+## 📊 GITHUB ANALYTICS
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srigokul001&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=srigokul001&show_icons=true&hide_border=true&bg_color=05000F&title_color=00F5FF&icon_color=FF00CC&text_color=FFFFFF&rank_icon=github" alt="GitHub Statistics"/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=srigokul001&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srigokul001&layout=compact&hide_border=true&bg_color=05000F&title_color=00F5FF&text_color=FFFFFF" alt="Top Languages"/>
+
+<br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=srigokul001&theme=tokyonight&hide_border=true&background=05000F&ring=00F5FF&fire=FF00CC&currStreakLabel=00F5FF&sideLabels=FFFFFF&dates=AAAAAA" alt="GitHub Streak"/>
 
 </div>
 
 ---
-
-## 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=srigokul001&theme=tokyo-night&hide_border=true" width="100%" alt="Contribution Graph"/>
+## 📈 CONTRIBUTION ACTIVITY
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=srigokul001&bg_color=05000F&color=00F5FF&line=FF00CC&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
 
 </div>
 
 ---
 
-## 🎯 2026 Goals
+<div align="center">
 
-- [ ] Strengthen Data Structures and Algorithms.
-- [ ] Improve Python and full-stack development skills.
-- [ ] Build and deploy more real-world projects.
-- [ ] Participate in hackathons and collaborative projects.
+## 🎯 MY GOALS
+
+</div>
+
+- [ ] Master Data Structures and Algorithms.
+- [ ] Improve coding and problem-solving skills.
+- [ ] Build and deploy production-ready applications.
+- [ ] Explore AI-powered applications and IoT.
+- [ ] Participate in hackathons and open-source projects.
 - [ ] Prepare for software development placements.
 
 ---
 
-## 🤝 Connect With Me
-
 <div align="center">
 
+## 🤝 CONNECT WITH ME
+
 <a href="https://github.com/srigokul001">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=00F5FF"/>
 </a>
 
 <a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=00D9FF"/>
 </a>
 
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=srigokul001&style=for-the-badge&color=FF00CC&label=THANKS+FOR+VISITING"/>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:00F5FF,35:007CF0,70:4B0082,100:05000F&section=footer&animation=twinkling"/>
+
+### `while(alive) { learn(); build(); innovate(); }`
+
+**SRIGOKUL — DESIGNED IN THE DARK · BUILT FOR THE FUTURE** ⚡
+
+⭐ Thanks for visiting my space!
+
 </div>
 
-<p align="center">
-  <b>“Learning every day. Building with purpose. Growing with every commit.”</b>
-</p>
-
-<div align="center">
-
-⭐ From <a href="https://github.com/srigokul001">Gokul</a>, with ❤️
-
-</div>
-
+<!-- ======================= END PROFILE ======================= -->
